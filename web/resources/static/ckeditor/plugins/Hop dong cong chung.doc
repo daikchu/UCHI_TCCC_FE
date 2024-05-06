@@ -1,0 +1,378 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+<!--
+ /!* Style Definitions *!/
+ /!* Page Definitions *!/
+ @page
+	{mso-footnote-separator:url("header.htm") fs;
+	mso-footnote-continuation-separator:url("header.htm") fcs;
+	mso-endnote-separator:url("header.htm") es;
+	mso-endnote-continuation-separator:url("header.htm") ecs;}
+@page Section1
+	{size:21cm 29.5cm;
+	margin:2cm 2cm 2cm 3cm;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-even-footer:url("header.htm") ef1;
+	mso-footer:url("header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->.break { page-break-before: always; }
+</style>
+</head>
+<body><div class=Section1>
+
+	<title></title>
+
+
+<p align="center" class="MsoBodyTextIndent2" style="text-align:center; margin-bottom:8px"><span style="font-size:12pt"><span style="line-height:200%"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="letter-spacing:-1.0pt">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</span></span></b></span></span></span></p>
+
+<p align="center" class="MsoBodyTextIndent2" style="text-align:center; margin-bottom:8px"><span style="font-size:12pt"><span style="line-height:200%"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Độc lập - Tự do - Hạnh phúc</span></span></b></span></span></span></p>
+
+<h4 align="center" style="text-align:center; text-indent:36pt; margin-top:16px; margin-bottom:4px"><span style="font-size:14pt"><span style="break-after:avoid"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-weight:bold"><v:line from="152.65pt,1.65pt" id="Line_x0020_12" o:gfxdata="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
+AAAABQAFAGcBAACbDAAAAAA=
+" style="position:absolute; left:0; text-align:left; z-index:251659776" to="305.9pt,1.65pt"><i>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </i></v:line></span></span></span></span></h4>
+
+<p align="center" style="text-align:center; margin-top:8px; margin-bottom:4px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><strong><span style="border:none windowtext 1.0pt; font-size:14.0pt; padding:0cm"><span style="color:black">VĂN BẢN THỎA THUẬN PHÂN CHIA DI SẢN THỪA KẾ </span></span></strong></span></span></p>
+
+<p align="center" style="text-align:center; margin-top:8px; margin-bottom:4px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><strong><span style="border:none windowtext 1.0pt; font-size:14.0pt; padding:0cm"><span style="color:black">VÀ TẶNG CHO TÀI SẢN THÀNH VIÊN HỘ GIA ĐÌNH</span></span></strong></span></span></p>
+
+<h4 style="text-indent:36pt; margin-top:16px; margin-bottom:4px"><span style="font-size:14pt"><span style="break-after:avoid"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-weight:bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></h4>
+
+<h4 style="text-align:justify; text-indent:36pt; margin-top:16px; margin-bottom:4px"><span style="font-size:14pt"><span style="break-after:avoid"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-weight:bold"><span style="letter-spacing:-.2pt"><span style="font-weight:normal">Hôm nay, tại Trụ sở Văn phòng công chứng Vũ Bích Huệ, Số 803 Đường Điện Biên, thành phố Yên Bái, tỉnh Yên Bái, chúng tôi gồm:</span></span></span></span></span></span></h4>
+
+<p style="text-indent:-18pt; margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1. </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bà:, sinh năm: 19</span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Giấy CMND số:, cấp ngày: tại CA tỉnh Yên Bái</span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Hộ khẩu thường trú:, TP.Yên Bái, tỉnh Yên Bái.</span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>Quan hệ người để lại di sản:)</i></span></span></span></span></p>
+
+<p style="text-indent:-18pt; margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2. </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bà:, sinh năm: 19 </span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Giấy CMND số:, cấp ngày: tại CA tỉnh Yên Bái</span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hộ khẩu thường trú:, TP.Yên Bái, tỉnh Yên Bái.</span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>Quan hệ người để lại di sản:)</i></span></span></span></span></p>
+
+<p style="text-indent:-18pt; margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3. </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bà:, sinh năm: 19 </span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Giấy CMND số:, cấp ngày: tại CA tỉnh Yên Bái</span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hộ khẩu thường trú: Tổ, phường, thành phố Yên Bái, tỉnh Yên Bái.</span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>Quan hệ người để lại di sản:)</i></span></span></span></span></p>
+
+<p style="text-indent:-18pt; margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4. </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bà:, sinh năm: 19 </span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Giấy CMND số:, cấp ngày: tại CA tỉnh Yên Bái</span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hộ khẩu thường trú:, TP.Yên Bái, tỉnh Yên Bái.</span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>Quan hệ người để lại di sản:)</i></span></span></span></span></p>
+
+<p style="text-indent:-18pt; margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">5. </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ông:, sinh năm: 19 </span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Giấy CMND số:, cấp ngày: tại CA tỉnh Yên Bái</span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hộ khẩu thường trú:, TP.Yên Bái, tỉnh Yên Bái.</span></span></span></span></p>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>Quan hệ người để lại di sản:)</i></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Chúng tôi lập văn bản này để thực hiện việc thỏa thuận phân chia di sản thừa kế và tặng cho tài sản thành viên hộ gia đình với nội dung như sau:</span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I. VỀ QUAN HỆ THỪA KẾ VÀ DI SẢN THỪA KẾ</span></span></b></span></span></p>
+
+<p style="text-indent:-14.2pt; margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1. </span></span></b><b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Quan hệ thừa kế:</span></span></b></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bằng văn bản này, chúng tôi khai nhận đúng sự thật rằng:</span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Chúng tôi là <span style="background:yellow">vợ, con</span> và là những người thừa kế theo pháp luật của ông</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">:, sinh năm</span></span><span lang="NL" style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">: chết ngày: theo Trích lục khai tử bản sao số: , do UBND phường, thành phố Yên Bái, tỉnh Yên Bái, cấp ngày</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">.</span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Những người thừa kế của <span style="color:red">ông</span> chỉ gồm những ông, bà có giấy tờ tùy thân như trên. Ngoài những người có tên trên đây, <span style="color:red">ông</span> không còn người thừa kế nào khác. <span style="background:yellow">Cha ruột</span> của <span style="color:red">ông</span> đã mất trước. <span style="color:red">Ông</span> không có cha nuôi, mẹ nuôi; không còn bất cứ người con nào khác, kể cả con nuôi, con riêng, con ngoài giá thú và không có người phụ thuộc nào khác. </span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Trước khi chết, <span style="color:red">ông</span> không để lại di chúc hoặc bất kỳ một nghĩa vụ tài sản nào mà những người thừa kế của <span style="color:red">ông</span> phải thực hiện. Theo quy định của pháp luật về thừa kế thì chúng tôi được quyền hưởng phần di sản của <span style="color:red">ông</span> thuộc diện thừa kế theo pháp luật,.</span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:-18pt; margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2. </span></span></b><b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Di sản thừa kế: </span></span></b></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Di sản thừa kế của <span style="color:red">ông</span> </span></span><span lang="NL" style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">để lại là một phần quyền sử dụng đất và tài sản gắn liền với đất trong khối tài sản chung hộ </span></span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:red">ông</span></span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">. </span></span><span lang="NL" style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Cụ thể như sau:</span></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif">&nbsp;<span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1. Quyền sử dụng đất đối với thửa đất theo <span style="text-transform:uppercase">g</span>iấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất Số vào sổ cấp giấy chứng nhận số:<b> </b>do UBND huyện Trấn Yên (nay là thành phố Yên Bái), cấp ngày. Cụ thể như sau:</span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Hộ ông: </span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Được quyền sử dụng: <b>m<sup>2 </sup>đất</b></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tại: </span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Theo bảng liệt kê dưới đây:</span></span></span></span></p>
+
+<table class="Table" style="border-collapse:collapse; border:none">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; width:92px; padding:0cm 7px 0cm 7px; border-top:1px solid black; border-right:1px solid black; border-left:1px solid black" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Số tờ bản đồ</span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; width:120px; padding:0cm 7px 0cm 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Số thửa</span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; width:106px; padding:0cm 7px 0cm 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Diện tích (m<sup>2</sup>)</span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; width:106px; padding:0cm 7px 0cm 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Mục đích sử dụng</span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; width:106px; padding:0cm 7px 0cm 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thời hạn sử dụng</span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; width:106px; padding:0cm 7px 0cm 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Phần ghi thêm</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; width:92px; padding:0cm 7px 0cm 7px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+			<p align="center" style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid black; width:120px; padding:0cm 7px 0cm 7px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid black; width:106px; padding:0cm 7px 0cm 7px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">314</span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; width:106px; padding:0cm 7px 0cm 7px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đất ở</span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; width:106px; padding:0cm 7px 0cm 7px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Lâu dài</span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; width:106px; padding:0cm 7px 0cm 7px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+			<p align="center" style="text-align:center">&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align:justify; text-indent:-18pt; margin-left:48px"><span style="font-size:12pt"><span style="font-family:VNI-Times"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3. </span></span><b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tài sản gắn liền với đất:</span></span></b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Nhà xây cấp IV<b> </b>(Chưa chứng nhận sở hữu)</span></span></span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; II. THỎA THUẬN VỀ VIỆC PHÂN CHIA DI SẢN THỪA KẾ VÀ TẶNG CHO TÀI SẢN THÀNH VIÊN HỘ GIA ĐÌNH.</span></span></b></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Bằng văn bản n</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">à</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">y ch</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ú</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ng t</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ô</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">i </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">đ</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ồng </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ý</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> nhận di sản thừa kế và tặng cho phần di sản thừa kế, tài sản của thành viên hộ gia đình n</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ê</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">u tr</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ê</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">n do <span style="color:red">ông </span>để lại cho bà :</span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bà:, sinh năm: 19</span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Giấy CMND số: cấp ngày: tại CA tỉnh Yên Bái </span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hộ khẩu thường tr</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ú</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">: Tổ , Phường, TP.Yên Bái, tỉnh Yên Bái.</span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (<i>Quan hệ người để lại di sản:)</i></span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Được hưởng toàn bộ di sản thừa kế và phần tài sản của hộ gia đình là quyền sử dụng đất và tài sản gắn liền với đất nói trên. Theo Giấy chứng nhận quyền sử dụng đất Số vào sổ cấp giấy chứng nhận số:<b> </b>do UBND huyện Trấn Yên (nay là thành phố Yên Bái), cấp ngày nói trên.</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:red">Bà</span> có nhân thân như trên đồng ý nhận toàn bộ phần di sản thừa kế và phần tài sản của hộ gia đình tặng cho là quyền sử dụng đất và tài sản gắn liền với đất.</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kể từ ng</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">à</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">y văn bản n</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">à</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">y </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">đ</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ược c</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ô</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ng chứng, </span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:red">bà</span></span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> có toàn quyền đối với phần di sản thừa kế và tài sản tặng cho nêu trên theo quy định của pháp luật.</span></span></span></span></p>
+
+<p style="margin-top:8px; margin-bottom:4px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:14.0pt">&nbsp;III. CAM ĐOAN CỦA NHỮNG NGƯỜI LẬP VĂN BẢN PHÂN CHIA DI SẢN THỪA KẾ</span></b><strong><span style="border:none windowtext 1.0pt; font-size:14.0pt; padding:0cm"><span style="color:black"> VÀ TẶNG CHO TÀI SẢN THÀNH VIÊN HỘ GIA ĐÌNH</span></span></strong></span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Chúng tôi, những người lập phân chia di sản thừa kế của <span style="color:red">ông</span></span></span><b> </b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">và tặng cho tài sản của hộ gia đình cam đoan: </span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">-</span></span></b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> Những thông tin đã ghi trong văn bản này là hoàn toàn chính xác, đúng sự thật.</span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">- </span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Chúng tôi là những người thừa kế theo pháp luật của <span style="color:red">ông</span>, và là thành viên hộ gia đình, ngoài chúng tôi ra <span style="color:red">ông</span></span></span><b> </b><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">không còn ai là người thừa kế. Chúng tôi cam kết không bỏ sót người thừa kế. Nếu có người nào đó chứng minh mình là người có quyền lợi liên quan đến di sản trên chúng tôi sẽ liên đới chịu trách nhiệm.</span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">- Văn bản thỏa thuận này do chúng tôi tự nguyện lập. Việc phân chia di sản thừa kế và tặng cho tài sản nêu trên hoàn toàn tự nguyện, không có sự lừa dối, đe dọa, ép buộc, không nhằm trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với người khác, đồng thời chúng tôi cam kết không tranh chấp, khiếu nại gì về sau đối với phần tài sản được thừa kế và phần tài sản đã cho tặng.</span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">- Chúng tôi đã đọc kỹ văn bản, đã hiểu rõ quyền, nghĩa vụ và hậu quả pháp lý của việc lập văn bản này, đồng ý toàn bộ nội dung và ký ghi rõ tên vào văn bản này.&nbsp; </span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt">&nbsp;</p>
+
+<h4 align="center" style="text-align:center; margin-top:16px; margin-bottom:4px"><span style="font-size:14pt"><span style="break-after:avoid"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-weight:bold">NHỮNG NGƯỜI LẬP VĂN BẢN PHÂN CHIA DI SẢN THỪA KẾ</span></span></span></span></h4>
+
+<p align="center" style="text-align:center; margin-top:8px; margin-bottom:4px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:14.0pt">VÀ TẶNG CHO TÀI SẢN THÀNH VIÊN HỘ GIA ĐÌNH</span></b></span></span></p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p class="MsoFooter" style="text-align:justify">&nbsp;</p>
+
+<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="break-after:avoid"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">LỜI CHỨNG CỦA CÔNG CHỨNG VIÊN</span></span></b></span></span></span></p>
+
+<p style="text-align:justify; text-indent:31.2pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span lang="NL" style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Hôm nay, ngày 11</span></span></span><span lang="NL" style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:red">/6/2019 (Ngày mười một, tháng sáu,</span></span></span><span lang="NL" style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black"> năm hai nghìn không trăm mười chín).</span></span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span lang="NL" style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tại Văn phòng Công chứng Vũ Bích Huệ số 803 đường Điện Biên, thành phố Yên Bái, tỉnh Yên Bái.</span></span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span lang="NL" style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tôi:</span></span></span><b><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Nguyễn Thị Túy</span></span></span></b><span lang="NL" style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">, Công chứng viên Văn phòng Công chứng Vũ Bích Huệ.</span></span></span></span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">CHỨNG NHẬN:</span></span></span></b></span></span></p>
+
+<p align="center" style="text-align:center">&nbsp;</p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Văn bản thỏa thuận phân chia di sản thừa kế này được lập bởi các ông, bà: </span></span></span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- Các bà có tên nêu trên đã tự nguyện lập <span style="text-transform:uppercase">v</span>ăn bản thỏa thuận phân chia di sản thừa kế này; cam đoan không bỏ sót người thừa kế và chịu trách nhiệm trước pháp luật về nội dung của <span style="text-transform:uppercase">v</span>ăn bản thỏa thuận phân chia di sản thừa kế;</span></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- Tại thời điểm công chứng các bà có tên nêu trên có năng lực hành vi dân sự theo quy định của pháp luật;</span></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- Mục đích, nội dung <span style="text-transform:uppercase">v</span>ăn bản thỏa thuận phân chia di sản thừa kế không vi phạm pháp luật, không trái đạo đức xã hội;</span></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- Sau khi niêm yết việc thụ lý công chứng <span style="text-transform:uppercase">v</span>ăn bản thỏa thuận phân chia di sản thừa kế tại </span></span></span><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:red">UBND phường Hợp Minh, thành phố Yên Bái, tỉnh Yên Bái từ ngày 23 tháng 5 năm 2019 đến hết ngày 07 tháng 6 năm 2019</span></span></span><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">, </span></span></span><span lang="NL" style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Văn phòng Công chứng Vũ Bích Huệ</span></span></span><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black"> không nhận được khiếu nại, tố cáo nào;</span></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- Các bà có tên nêu trên đã tự đọc toàn bộ dự thảo <span style="text-transform:uppercase">v</span>ăn bản thỏa thuận phân chia di sản thừa kế này, đồng ý toàn bộ nội dung <span style="text-transform:uppercase">v</span>ăn bản thỏa thuận phân chia di sản thừa kế, đã ký vào <span style="text-transform:uppercase">v</span>ăn bản thỏa thuận phân chia di sản thừa kế này là đúng; </span></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- <span style="text-transform:uppercase">v</span>ăn bản thỏa thuận phân chia di sản thừa kế này được lập thành 03 bản chính (mỗi bản chính gồm 04 tờ, 04 trang), có giá trị pháp lý như nhau, các bà có tên trên giữ 02 bản chính, lưu 01 bản chính </span></span></span><span lang="NL" style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Văn phòng Công chứng Vũ Bích Huệ</span></span></span><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">.</span></span></span></span></span></p>
+
+<p style="text-align:justify; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Số công chứng</span></span></span><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:red">: <b>1687 </b>, quyển số <b>04TP/CC-SCC/HĐGD</b></span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p>
+
+<table class="Table" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="width:234px; padding:0cm 7px 0cm 7px" valign="top">
+			<p style="text-align:justify">&nbsp;</p>
+			</td>
+			<td style="width:404px; padding:0cm 7px 0cm 7px" valign="top">
+			<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><b><span style="font-size:13.5pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">CÔNG CHỨNG VIÊN</span></span></span></b></span></span></p>
+
+			<p align="center" style="text-align:center">&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p align="center" style="text-align:center; text-indent:36pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;, serif"><b>&nbsp;&nbsp;&nbsp;&nbsp; </b></span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+</div></body></html>

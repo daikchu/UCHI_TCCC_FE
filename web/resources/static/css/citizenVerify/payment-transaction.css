@@ -1,0 +1,380 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container_center{
+    width: 848px;
+    height: 836px;
+    margin: 0 auto;
+    background-color: rgba(252, 252, 252, 1);
+}
+/*header{
+    display: flex;
+    width: 848px;
+    height: 56px;
+    padding: 10px 20px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2CA9E0;
+}
+header span{
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}*/
+.icon{
+    cursor: pointer;
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-style: normal;
+}
+.icon-button{
+    color: white;
+    cursor: pointer;
+    font-size: 28px;
+}
+main{
+    width: 100%;
+    /*height: 732px;*/
+    /* background-color: yellow; */
+}
+.main_title{
+    width: 848px;
+    height: 82px;
+    /* background-color: blueviolet; */
+    text-align: center;
+}
+.main_title h5{
+    color: var(--neutral-07, #1A1D1F);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; /* 133.333% */
+    letter-spacing: -0.48px;
+    padding-top: 20px;
+}
+
+.main_title_transaction{
+    margin-top: 10px;
+}
+.main_title_transaction .body1{
+    color: var(--neutral-shades-0475, #9A9FA5);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.14px;
+}
+.main_title_transaction .body2{
+    color: var(--primary-03, #FF6A55);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.15px;
+}
+
+.main_container_payment_transaction{
+    width: 799px;
+    height: 576px;
+    /* background-color: #FF6A55; */
+    margin: 24px 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.main_content_1{
+    width: 387.5px;
+    height: 576px;
+    background-color:rgba(255,255,255,0) !important;
+    border: 2px solid var(--neutral-03, #EFEFEF);
+    border-radius: 7px;
+    /* background-color: burlywood; */
+}
+.main_content_2{
+    width: 387.5px;
+    height: 576px;
+    /* background-color:brown; */
+}
+.header_content{
+    width: 100%;
+    height: 48px;
+    background: var(--neutral-02, #F4F4F4);
+    display: flex;
+    padding: 12px 24px;
+    align-items: flex-start;
+    gap: 10px;
+    align-self: stretch;
+    border-radius: 7px;
+}
+.header_content span{
+    color: var(--neutral-shades-0475, #9A9FA5);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+.main_pay{
+    width: 100%;
+    height: 528px;
+    /* background-color: cornflowerblue; */
+    padding: 24px 24px;
+}
+.main_pay_1_1{
+    width: 339.5px;
+    height: 76px;
+    /* background-color: blanchedalmond; */
+    text-align: center;
+
+}
+.main_pay_1_1 span{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#6F767D;
+}
+.main_pay_1_1 img{
+    width: 90.5px;
+    height: 40px;
+    margin-top: 15px;
+    background:rgba(255,255,255,0) ;
+}
+.main_pay_2_1{
+    margin:  65px auto ;
+    left: 93.75px;
+    width: 200px;
+    height: 200px;
+
+}
+.main_pay_3_1{
+    width: 339.5px;
+    height: 76px;
+    /* background-color: greenyellow; */
+    text-align: center;
+}
+
+.logo_container{
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+}
+.logo{
+    width: 208px;
+    height: 40px;
+    /* background-color: cadetblue; */
+    display: flex;
+    justify-content: space-between;
+}
+.momo{
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+}
+.zaloPay{
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+}
+.viettelPay{
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+}
+.logo_more{
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    background: var(--neutral-02, #F4F4F4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn_container{
+    /* width: 799px;
+    height: 48px; */
+    /* background-color: chartreuse; */
+    display: flex;
+    justify-content: center;
+
+}
+.btn{
+    width: 799px;
+    height: 48px;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 10px;
+    align-self: stretch;
+}
+.btn_1{
+    width: 188px;
+    height: 100%;
+    color: var(--neutral-01, #FCFCFC);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: -0.15px;
+    border-radius: 12px;
+    background: var(--primary-01, #2A85FF);
+    border: none;
+}
+.main_content_2{
+    width: 387.5px;
+    height: 576px;
+    background-color:rgba(255,255,255,0) !important;
+    border: 2px solid var(--neutral-03, #EFEFEF);
+    border-radius: 7px;
+}
+
+.main_pay_1_2{
+    width: 339.5px;
+    /*height: 76px;*/
+    /* background-color: blanchedalmond; */
+    /* text-align: center; */
+}
+.main_pay_1_2 .enjoyment_bank{
+    color: var(--neutral-04, #6F767E);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.225px;
+}
+.name_bank{
+    margin-top: 8px;
+}
+.name_bank span{
+    color: var(--neutral-02, #23262F);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px; /* 160% */
+    letter-spacing: -0.15px;
+}
+.main_pay_2_2{
+    margin-top: 16px;
+    width: 339.5px;
+    height: 56px;
+    /* background-color: blanchedalmond; */
+}
+.main_pay_2_2 .account_number{
+    margin-top: 13px;
+    width: 174px;
+    height: 24px;
+    /* background-color: lightpink; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main_pay_2_2 .account_number span{
+    color: var(--neutral-07, #1A1D1F);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.15px;
+}
+
+.qr_code{
+    color: var(--primary-03, #FF6A55) !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.15px;
+}
+.note_container{
+    margin-top: 16px;
+    width: 339.5px;
+    height: 96px;
+    display: flex;
+    padding: 12px;
+    align-items: flex-start;
+    gap: 10px;
+    align-self: stretch;
+    border-radius: 8px;
+    border: 2px solid rgba(255, 106, 85, 0.50);
+    background: #FFF1F0;
+}
+.main_content_payment{
+    display: contents !important;
+}
+
+.btn_decrease {
+    border-color: var(--primary-01, #2A85FF);
+}
+.btn_decrease .icon-button {
+    color: var(--primary-01, #2A85FF);
+}
+
+.btn_decrease:has(.icon-button.disabled) {
+    border-color: #6F767E;
+}
+.btn_decrease .icon-button.disabled{
+    color: #6F767E;
+}
+
+#totalPrice {
+    color: #1A1D1F;
+}
+
+
+.input_text_unit_price::placeholder{
+    color: #9A9FA5;
+}
+
+.title-buy-more-verify-number {
+    color: var(--neutral-07, #1A1D1F);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+.verify-number {
+    width: 216px; height: 216px;
+    background-color: #EFEFEF;
+    font-size: 140px;
+    text-align: center;
+    font-family: 'Inter';
+    border-radius: 12px;
+    border: 2px;
+}
+
+@media screen and (max-height: 600px) {
+    #buyNumberVerify main{
+        /*width:850px; */
+        height: 550px;
+        overflow-y: scroll
+    }
+    #paymentTransaction .modal-body{
+        height: 450px;
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .container_center{
+        width: 100%;
+    }
+    .main_btn{
+        flex-direction: column;
+    }
+
+}
+

@@ -1,0 +1,27 @@
+,,,,,"TP-CC-22
+(Ban h…nh kŠm theo Th“ng t? s? 06/2015/TT-BTP)",
+,,,,,,
+,,,,,,
+,,,,,,
+,,C?ng H•a X? H?i Ch? Ngh?a Vi?t Nam,,,,
+,,??c L?p - T? Do - H?nh Ph£c,,,,
+,,,,,,
+,,"S? C?NG CH?NG H?P ??NG, GIAO D?CH    ",,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,                           Tˆn t? ch?c h…nh ngh? c“ng ch?ng: ${agency},,,,
+,,                           T?nh (th…nh ph?):${province},,,,
+,,,,,,
+,,                           Quy?n s?:??????????????. TP/CC-SCC/H?GD,,,,
+,,                           M? S? ng…y ${dateFrom} th ng ${monthFrom} n?m ${yearFrom} ,,,,
+,,                           Kh¢a S? ng…y ${dateTo} th ng ${monthTo} N?m ${yearTo},,,,
+,,,,,,
+,,,,,,
+,,,,,,
+S? C?NG CH?NG,"NG?Y, TH?NG, N?M H?P ??NG","H? T?N, N?I C? TR? C?A NG??I Y?U C?U C?NG CH?NG",LO?I VI?C C?NG CH?NG,H? T?N NG??I K? C?NG CH?NG,PH? C?NG CH?NG,GHI CH?
+(1),(2),(3),(4),(5),(6),(7)
+"<jt:forEach items=""${report}"" var=""item"">${item.contract_number}",${item.notary_date},"${item.relation_object_A}
+ ${item.relation_object_B}",${item.name},${item.notary_family_name} ${item.notary_first_name},${item.cost_total},${item.note}</jt:forEach>
+,,,,,,
+,,,,,,
