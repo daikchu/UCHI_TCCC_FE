@@ -66,7 +66,7 @@
 <script src="<%=request.getContextPath()%>/static/qrcode/qrcode.min.js" type="text/javascript"></script>
 <script src="<%=request.getContextPath()%>/static/js/main.js?v=20231107" type="text/javascript"></script>
 
-<script src="<%=request.getContextPath()%>/static/js/checkId/PluginICAOClientSDK.js" type="text/javascript"></script>
+<%--<script src="<%=request.getContextPath()%>/static/js/checkId/PluginICAOClientSDK.js" type="text/javascript"></script>--%>
 
 <div id="menu-map">
     <a href="#menu-toggle" id="menu-toggle"><img src="<%=request.getContextPath()%>/static/image/menu-icon.png"></a>

@@ -3,7 +3,6 @@ var flagFistTime = 1;
 var flagTimeOut = 0;
 var wsTimeout;
 var mapRequestID = new Map();
-
 class ISPluginClient {
   constructor(
     ip,

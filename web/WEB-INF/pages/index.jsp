@@ -62,17 +62,19 @@
 
 <link rel="stylesheet" href="<%=request.getContextPath()%>/static/css/contract/xeditable.min.css"/>
 <script src="<%=request.getContextPath()%>/static/js/contract/xeditable.min.js" type="text/javascript"></script>
-<script src="<%=request.getContextPath()%>/static/js/websocket/index.js?v=20231107" type="text/javascript"></script>
+<%--<script src="<%=request.getContextPath()%>/static/js/websocket/index.js?v=20231107" type="text/javascript"></script>--%>
 <script src="<%=request.getContextPath()%>/static/qrcode/qrcode.min.js" type="text/javascript"></script>
 <script src="<%=request.getContextPath()%>/static/js/main.js?v=20231107" type="text/javascript"></script>
 
-<script src="<%=request.getContextPath()%>/static/js/checkId/PluginICAOClientSDK.js" type="text/javascript"></script>
+<script src="<%=request.getContextPath()%>/static/js/checkId/index.js" type="text/javascript"></script>
+<script src="<%=request.getContextPath()%>/static/js/checkId/faceIdSocket.js" type="text/javascript"></script>
+
 
 <div id="menu-map">
     <a href="#menu-toggle" id="menu-toggle"><img src="<%=request.getContextPath()%>/static/image/menu-icon.png"></a>
     <span id="web-map">Trang chủ</span>
 </div>
-<div id="home-wapper" ng-app="osp" ng-controller="jspHomeController">
+<div id="home-wapper" ng-app="osp" ng-controller="indexFaceIdController">
     <div class="col-md-12">
         <div id="uchi-status"
              style="padding-left: 15px;padding-right: 15px; padding-bottom: 5px;margin-top:0px !important;">
@@ -347,7 +349,7 @@
                                         </div>
                                     </div>
                                     <div style="color: #1A1D1F; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                        Đặt ngón trỏ của khách hàng lên khu vực quét dấu vân tay
+                                        Thực hiện quét khuôn mặt trên thiết bị
                                     </div>
                                 </div>
                             </div>
@@ -420,7 +422,7 @@
                                         </div>
                                     </div>
                                     <div style="color: #1A1D1F; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                        Đặt CCCD lên khu vực đọc thẻ
+                                        Đặt CCCD vào khe thiết bị đọc thẻ
                                     </div>
                                 </div>
                                 <div style="justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
@@ -430,7 +432,7 @@
                                         </div>
                                     </div>
                                     <div style="color: #1A1D1F; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                        Đặt ngón trỏ của khách hàng lên khu vực quét dấu vân tay
+                                        Thực hiện quét khuôn mặt trên thiết bị
                                     </div>
                                 </div>
                             </div>
@@ -531,7 +533,7 @@
                                  src="<%=request.getContextPath()%>/static/image/icon-mkserver/bg-scan-success.png"/>
 
                             <img style="width: 158px; height: 212px; left: 24px; top: 158px; position: absolute; border-radius: 8px"
-                                 src="data:image/png;base64,{{webSocketData.icaoResponse.data.faceImage}}"/>
+                                 src="data:image/png;base64,{{citizenInformation.avatar_img}}"/>
 
                             <div style="left: 24px; top: 24px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 12px; display: inline-flex">
                                 <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
@@ -539,7 +541,7 @@
                                         Số CCCD
                                     </div>
                                     <div style="color: #2A85FF; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 28px; word-wrap: break-word">
-                                        {{webSocketData.icaoResponse.data.dg13.idCardNo}}
+                                        {{citizenInformation.cccd_number}}
                                     </div>
                                 </div>
                                 <div style="width: 52px; height: 2px; position: relative; background: #BAE7EF; border-radius: 1px"></div>
@@ -548,7 +550,7 @@
                                         Số CMND đã cấp
                                     </div>
                                     <div style="color: #272B30; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 28px; word-wrap: break-word">
-                                        {{webSocketData.icaoResponse.data.dg13.oldIdCardNumber}}
+                                        {{citizenInformation.cmnd_number}}
                                     </div>
                                 </div>
                             </div>
@@ -560,7 +562,7 @@
                                                 Họ và tên
                                             </div>
                                             <div style="color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                                {{webSocketData.icaoResponse.data.dg13.name}}
+                                                {{citizenInformation.full_name}}
                                             </div>
                                         </div>
                                         <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
@@ -568,7 +570,7 @@
                                                 Quốc tịch
                                             </div>
                                             <div style="color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                                {{webSocketData.icaoResponse.data.dg13.nationality}}
+                                                {{citizenInformation.country}}
                                             </div>
                                         </div>
                                     </div>
@@ -578,7 +580,7 @@
                                                 Ngày sinh
                                             </div>
                                             <div style="color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                                {{webSocketData.icaoResponse.data.dg13.dateOfBirth}}
+                                                {{citizenInformation.date_of_birth}}
                                             </div>
                                         </div>
                                         <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
@@ -586,7 +588,7 @@
                                                 Dân tộc
                                             </div>
                                             <div style="color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                                {{webSocketData.icaoResponse.data.dg13.ethnic}}
+                                                {{citizenInformation.ethnic}}
                                             </div>
                                         </div>
                                     </div>
@@ -596,7 +598,7 @@
                                                 Giới tính
                                             </div>
                                             <div style="color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                                {{webSocketData.icaoResponse.data.dg13.gender}}
+                                                {{citizenInformation.sex}}
                                             </div>
                                         </div>
                                         <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
@@ -604,7 +606,7 @@
                                                 Tôn giáo
                                             </div>
                                             <div style="color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                                {{webSocketData.icaoResponse.data.dg13.religion}}
+                                                {{citizenInformation.religion}}
                                             </div>
                                         </div>
                                     </div>
@@ -614,7 +616,7 @@
                                         Quê quán
                                     </div>
                                     <div style="align-self: stretch; color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                        {{webSocketData.icaoResponse.data.dg13.placeOfOrigin}}
+                                        {{citizenInformation.hometown}}
                                     </div>
                                 </div>
                                 <div style="align-self: stretch; height: 44px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
@@ -622,7 +624,7 @@
                                         Địa chỉ thường trú
                                     </div>
                                     <div style="align-self: stretch; color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                        {{webSocketData.icaoResponse.data.dg13.residenceAddress}}
+                                        {{citizenInformation.permanent_address}}
                                     </div>
                                 </div>
                                 <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 39px; display: inline-flex">
@@ -631,7 +633,7 @@
                                             Ngày cấp
                                         </div>
                                         <div style="color: #1A1D1F; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                            {{webSocketData.icaoResponse.data.dg13.dateOfIssuance}}
+                                            {{citizenInformation.date_issuance}}
                                         </div>
                                     </div>
                                     <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
@@ -639,7 +641,7 @@
                                             Ngày hết hạn
                                         </div>
                                         <div style="color: #1A1D1F; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                            {{webSocketData.icaoResponse.data.dg13.dateOfExpiry}}
+                                            {{citizenInformation.date_expiration}}
                                         </div>
                                     </div>
                                 </div>
@@ -648,14 +650,23 @@
                                         Đặc điểm nhận dạng
                                     </div>
                                     <div style="width: 354px; color: #1A1D1F; font-size: 15px; font-family: Inter; font-weight: 600; line-height: 24px; word-wrap: break-word">
-                                        {{webSocketData.icaoResponse.data.dg13.personalSpecificIdentification}}
+                                        {{citizenInformation.identification_characteristics}}
                                     </div>
                                 </div>
                             </div>
                             <img class="icon-quochuy"
                                  src="<%=request.getContextPath()%>/static/image/icon-mkserver/quoc-huy-viet-nam.png"/>
                         </div>
-
+                        <div class="form-group" style="width: 100%">
+                            <label class="col-md-3 control-label label-bam-trai">Tải file xác thực</label>
+                            <div class="col-md-5 themfile">
+                                <input class="prevent-file_upload myFile" type="file" id="faceId_file" name="multipartFile">
+<%--                                <div class="error_tooltip">Folder url: C:\ProgramData\Microsoft\Crypto\Mobile-ID\CheckID Client v2.0\Daily Export Data\2024-11-06\PDF</div>--%>
+                            </div>
+                            <div class="col-md-4">
+                                <a class="btn-primary btn-xs" style="float: right" onclick="themFile();">Lưu file</a>
+                            </div>
+                        </div>
                         <div ng-show="errorIdentity.code==0"
                              style="color: #71717A; font-size: 14px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">
                             *Các thông tin cá nhân đã xác thực định danh thành công sẽ được lưu lại và gợi ý theo số
